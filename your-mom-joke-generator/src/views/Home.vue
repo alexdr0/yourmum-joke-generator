@@ -3,6 +3,9 @@
     <h1>Generate a quick your mum joke</h1>
     <button @click="reload">Your mom ...</button>
     <h2>{{ text }}</h2>
+    <br><br>
+    <h3>Check out some of my other projects</h3>
+    <h4><a href="https://alexdr.tech"><u>My website</u></a> | <a href="https://chat.alexdr.tech"><u>Chat about it on my chat site</u></a></h4>
   </div>
 </template>
 
@@ -632,6 +635,10 @@ h2{
 }
 h1{
   color: lightgray;
+}
+
+u{
+  color:#7289da;
 }
 
 button{
