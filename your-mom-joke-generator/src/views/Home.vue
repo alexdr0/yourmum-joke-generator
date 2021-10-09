@@ -597,17 +597,124 @@
       "Yo mama's so ugly that when she asked Crabbe to take her to the Yule Ball, he decided to go with Goyle instead!",
       "Yo mama's so ugly that you could put lipstick on a pig and it would look ten times better than her!",
       "Yo mama is so ugly, that Pythagoras wouldn't touch her with a 3-4-5 triangle."
+    ], "nasty": [
+      "Yo mama is so nasty that she has more rappers in her than an iPod.",
+      "Yo mama is so nasty that she makes speed stick slow down.",
+      "Yo mama is so nasty that she brings crabs to the beach.",
+      "Yo mama is so nasty that that pours salt water down her pants to keep her crabs fresh.",
+      "Yo mama is so nasty that the fishery pays her to stay away.",
+      "Yo mama is so nasty that she only changes her drawers once every 10000 miles.",
+      "Yo mama is so nasty that a skunk smelled her ass and passed out.",
+      "Yo mama is so nasty that I chatted with her on MSN and she gave me a virus.",
+      "Yo mama is so nasty that her tits leak sour milk.",
+      "Yo mama is so nasty that she has to use Right Guard and Left Guard.",
+      "Yo mama is so nasty that she bit the dog and gave it rabies.",
+      "Yo mama is so nasty that she has a sign by her crotch that says: \"Warning: May cause irritation, drowsiness, and a rash or breakouts.\"",
+      "Yo mama is so nasty that she's got more clap than an auditorium.",
+      "Yo mama is so nasty that she calls Janet \"Miss Jackson.\"",
+      "Yo mama is so nasty that she has more crabs then Red Lobster.",
+      "Yo mama is so nasty that she made right guard turn left.",
+      "Yo mama is so nasty that I when I talked to her on the phone, she gave me an ear infection.",
+      "Yo mama is so nasty that next to her a skunk smells sweet.",
+      "Yo mama is so nasty that her shit is glad to escape.",
+      "Yo mama is so nasty that when you were being delivered, the doctor was wearing the oxygen mask.",
+      "Yo mama is so nasty that every time she opens her mouth she's talking shit.",
+      "Yo mama is so nasty that even dogs won't sniff her crotch.",
+      "Yo mama is so nasty that the only dis I want to give her is a disinfectant.",
+      "Yo mama is so nasty that her crabs use her tampon string as a bungee cord.",
+      "Yo mama's so nasty, the Forbidden Forrest was named after her.",
+      "Yo mama's so nasty, every pair of her panties has the Dark Mark on them.",
+      "Yo mama's so nasty that the order of the phoenix was \"stay away from that woman!\"",
+      "Yo mama's breath is so nasty that it chases away Miasma."
+    ], "like": [
+      "Yo mama is like a hockey player, she only showers after three periods.",
+      "Yo mama is like a chicken coop, cocks fly in and out all day.",
+      "Yo mama is like a paper towel, she picks up all kinds of slimy wet stuff.",
+      "Yo mama is like Bazooka Joe, 5 cents a blow.",
+      "Yo mama is like a telephone, even a 3 year old can pick her up.",
+      "Yo mama is like a Christmas tree, everybody hangs balls on her.",
+      "Yo mama is like the sun, look at her too long and you'll go blind.",
+      "Yo mama is like a library, she's open to the public.",
+      "Yo mama is like a fine restaurant, she only takes deliveries in the rear.",
+      "Yo mama is like an ATM, open 24 hours.",
+      "Yo mama is like a bowling ball... round, heavy, and you can fit three fingers in.",
+      "Yo mama is like a basketball hoop, everybody gets a shot.",
+      "Yo mama is like a Discover card, she gives cash back.",
+      "Yo mama is like a championship ring, everybody puts a finger in her.",
+      "Yo mama is like Dominoes Pizza, one call does it all.",
+      "Yo mama is like a microwave, press one button and she's hot.",
+      "Yo mama is like a mail box, open day and night.",
+      "Yo mama is like a bowling ball, she always winds up in the gutter.",
+      "Yo mama is like a bus, guys climb on and off her all day long.",
+      "Yo mama is like a door knob, everybody gets a turn.",
+      "Yo mama is like a light switch, even a little kid can turn her on.",
+      "Yo mama is like a slaughter house - everybody's hanging their meat up in her.",
+      "Yo mama is like the new AOL 4.0: Fun, Fast, Easy and Free!",
+      "Yo mama is like a carpenter's dream - flat as a board and easy to nail.",
+      "Yo mama is like Humpty Dumpty - First she gets humped, then she gets dumped.",
+      "Yo mama is like a bag of potato chips, \"Free-To-Lay.\"",
+      "Yo mama is like a turtle - once she's on her back she's fucked.",
+      "Yo mama is like a fan - she's always blowing someone.",
+      "Yo mama is like Pizza Hut - if she isn't there in 30 minutes... it's Free!",
+      "Yo mama is like a goalie - she only changes her pads after three periods.",
+      "Yo mama is like a gas station - you gotta pay before you pump!",
+      "Yo mama is like Sprint - 10 cents a minute anywhere in the country.",
+      "Yo mama is like a Chinese restaurant - All you can eat for only $9.95!",
+      "Yo mama is like a protractor - she's good at every angle.",
+      "Yo mama's like a shotgun, one cock and she blows.",
+      "Yo mama's like the Bermuda Triangle, they both swallow a lot of seamen.",
+      "Yo mama's like cake mix, 15 servings per package!",
+      "Yo mama's like a 5 foot tall basketball hoop, it ain't that hard to score.",
+      "Yo mama's like a vacuum cleaner... she sucks, blows, and then gets laid in the closet.",
+      "Yo mama's like the Pillsbury dough boy - everybody pokes her.",
+      "Yo mama's like a brick, dirty, flat on both sides, and always getting laid by Mexicans.",
+      "Yo mama's like a nickel, she ain't worth a dime.",
+      "Yo mama's like a streetlamp, you can find her turned on at night on any street corner.",
+      "Yo mama's like a telephone booth, open to the public, costs a quarter, and guys go in and out all day.",
+      "Yo mama's like a Reese's Peanut Butter Cup, there's no wrong way to eat her.",
+      "Yo mama's like a postage stamp, you lick her, stick her, then send her away.",
+      "Yo mama's like a screen door, after a couple of bangs she loosens up.",
+      "Yo mama's like a dollar bill, she gets handled all across the country.",
+      "Yo mama's like school at 3 o'clock... children keep coming out and nobody can remember all the fathers.",
+      "Yo mama's like a bowling ball, she gets picked up, fingered, thrown down the gutter, and she still comes back for more.",
+      "Yo mama's like a set of speakers - loud, ugly, lives in a box, and you can turn her up, down, on, and off.",
+      "Yo mama's like a birthday cake, everybody gets a piece.",
+      "Yo mama's like 7-Eleven - open all night, hot to go, and for 89 cents you can get a slurpy.",
+      "Yo mama's like a vacuum cleaner - a real good suck.",
+      "Yo mama's like a Snickers bar, packed with nuts.",
+      "Yo mama's like a race car driver - she burns a lot of rubbers.",
+      "Yo mama's like a parking garage, three bucks and you're in.",
+      "Yo mama's like a pool table, she likes balls in her pocket.",
+      "Yo mama's like the Panama Canal, vessels full of seamen pass through her everyday.",
+      "Yo mama's like a bungee cord... 100 dollars for 30 seconds and if that rubber breaks, your ass is dead!",
+      "Yo mama's like a squirrel, she's always got some nuts in her mouth.",
+      "Yo mama's like a refrigerator, everyone puts their meat in her.",
+      "Yo mama's like a tricycle, she's easy to ride.",
+      "Yo mama's like mustard, she spreads easy.",
+      "Yo mama's like peanut butter: brown, creamy, and easy to spread.",
+      "Yo mama's like McDonalds... Billions and Billions served.",
+      "Yo mama's like an elevator, guys go up and down on her all day.",
+      "Yo mama's like a railroad track, she gets laid all over the country.",
+      "Yo mama's like lettuce, 25 cents a head.",
+      "Yo mama's like an iPod, fun to touch!",
+      "Yo mama's like Wal-Mart... She's got different discounts everyday.",
+      "Yo mama's like a converging lens - she's wider in the middle than she is on either end.",
+      "Yo mama's like a puppy... everybody wants to give her a hug."
     ]}
 
 
         function generate(){
           let jokes = []
 
-          let stage1 = Math.floor((Math.random() * 3) + 1)
+          let stage1 = Math.floor((Math.random() * 5) + 1)
           if(stage1 == 1){
             jokes = yourmum.fat
           } else if(stage1 == 2){
             jokes = yourmum.stupid
+          } else if(stage1 == 3){
+            jokes = yourmum.nasty
+          } else if(stage1 == 4){
+            jokes = yourmum.like
           } else {
             jokes = yourmum.ugly
           }
