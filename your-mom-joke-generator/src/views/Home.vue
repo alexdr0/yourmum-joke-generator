@@ -727,6 +727,11 @@
         function reload(){
           location.reload()
         }
+        
+        window.addEventListener("keypress", () => {
+          reload()
+        });
+
 
 
 
