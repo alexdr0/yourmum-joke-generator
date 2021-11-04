@@ -6,7 +6,7 @@
     <br>
     <h3> Or press space bar to generate</h3>
     <br><br>
-    <h3>Check out some of my other projects</h3>
+    <h3>Check out some of my other projects</h3>m
     <h4><a href="https://alexdr.tech"><u>My website</u></a> | <a href="https://chat.alexdr.tech"><u>Chat about it on my chat site</u></a></h4>
   </div>
 </template>
@@ -127,7 +127,7 @@
       "Yo mama is so fat that when she lays on the beach, people run around yelling Free Willy.",
       "Yo mama is so fat that she uses redwoods to pick her teeth",
       "Yo mama is so fat that she cut her leg and gravy poured out",
-      "Yo mama is so fat that she was in the Macygs Thanksgiving Day Parade... wearing ropes.",
+      "Yo mama is so fat that she was in the Macys Thanksgiving Day Parade... wearing ropes.",
       "Yo mama is so fat that she went on a light diet. As soon as it's light she starts eating.",
       "Yo mama is so fat that shegs half Italian, half Irish, and half American.",
       "Yo mama is so fat that her waist size is the Equator.",
