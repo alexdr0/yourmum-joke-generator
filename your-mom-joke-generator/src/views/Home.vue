@@ -727,7 +727,7 @@
         generate()
 
         function reload(){
-          location.reload()
+          window.location.href = "/redirect";
         }
         
         window.addEventListener("keypress", () => {
