@@ -6,7 +6,7 @@
     <h2>{{ text.text }}</h2>
     <br>
     <h3> Or press space bar to generate</h3>
-    <button @click="generateShare">Share</button>
+    <button @click="generateShare(false)">Share</button>
     <br><br>
     <h3>Check out some of my other projects</h3>m
     <h4><a href="https://alexdr.tech"><u>My website</u></a> | <a href="https://chat.alexdr.tech"><u>Chat about it on my chat site</u></a></h4>
@@ -1692,7 +1692,7 @@
         function generate(){
           let jokes = []
 
-          let stage1 = Math.floor((Math.random() * 6) + 1)
+          let stage1 = Math.floor((Math.random() * 10) + 1)
           if(stage1 == 1){
             jokes = yourmum.fat
           } else if(stage1 == 2){
@@ -1702,9 +1702,9 @@
           } else if(stage1 == 4){
             jokes = yourmum.like
           } else if(stage1 == 5){
-            jokes = yourmum.extras
-          } else {
             jokes = yourmum.ugly
+          } else {
+            jokes = yourmum.extras
           }
 
           let stage2 = Math.floor((Math.random() * jokes.length) + 1)
@@ -1726,7 +1726,7 @@
 
         
 
-        function generateShare(){
+        function generateShare(lastattempt){
             let shareText = `
               ${text.text}
 
@@ -1747,9 +1747,15 @@
             navigator.clipboard.writeText(copyText.value);
 
             /* Alert the copied text */
-            alert("Copied to clipboard");
+            if(lastattempt == true){
+              alert("Copied to clipboard");
+            }
 
             document.getElementById("copyTextID").style.display = "none"
+
+            if(lastattempt == false){
+              generateShare(true)
+            }
 
         }
 
