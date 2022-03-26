@@ -6,20 +6,22 @@
     <h2>{{ text.text }}</h2>
     <br>
     <h3> Or press space bar to generate</h3>
+    <button @click="generateShare">Share</button>
     <br><br>
     <h3>Check out some of my other projects</h3>m
     <h4><a href="https://alexdr.tech"><u>My website</u></a> | <a href="https://chat.alexdr.tech"><u>Chat about it on my chat site</u></a></h4>
+    <textarea type="text" :value="text.shareText" id="copyTextID"></textarea>
   </div>
 </template>
 
 <script>
 
-    import { reactive } from 'vue'
+    import { reactive, onMounted } from 'vue'
 
   export default{
     name: "home",
     setup(){
-        let text = reactive({ text: 'Your mom...'})
+        let text = reactive({ text: 'Your mom...', shareText: ''})
 
   let yourmum = {
       "fat": [
@@ -1718,10 +1720,43 @@
           reload()
         });
 
+        onMounted(() => {
+          document.getElementById("copyTextID").style.display = "none"
+        })
+
+        
+
+        function generateShare(){
+            let shareText = `
+              ${text.text}
+
+                https://yourmom.alexdr.tech
+            `
+
+            text.shareText = shareText
+
+            document.getElementById("copyTextID").style.display = "block"
+
+            let copyText = document.getElementById("copyTextID");
+
+            /* Select the text field */
+            copyText.select();
+            copyText.setSelectionRange(0, 99999); /* For mobile devices */
+
+            /* Copy the text inside the text field */
+            navigator.clipboard.writeText(copyText.value);
+
+            /* Alert the copied text */
+            alert("Copied to clipboard");
+
+            document.getElementById("copyTextID").style.display = "none"
+
+        }
 
 
 
-      return { text, generate, reload }
+
+      return { text, generate, reload, generateShare }
     }
   }
 </script>
